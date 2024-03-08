@@ -9,9 +9,9 @@ from user-selected teams via the Fantasy Premier League API
 PostgreSQL database, ensuring data integrity and efficiency. 
 - Demonstrated proficiency in integrating diverse data sources, enabling insightful 
 analysis and visualization for strategic decision-making in sports analytics and 
-fantasy football management. code found [here](https://github.com/amboym/DraftFPLDB)
+fantasy football management. github: [here](https://github.com/amboym/DraftFPLDB)
 
 ### Analysis of DJ Sets 
 #### Python
 Exploring DJ sets, using seaborn and matplotlib in Python. In this project I sought out to see how my setlist compares to my favourite DJ's
-- This project aims to leverage the Spotify Web API to extract track information from selected DJ playlists. By utilizing the Spotify API, the project retrieves track URIs from playlists belonging to various DJs, facilitating the analysis of audio features across different sets and comparison of my own set to theirs. [here](https://github.com/amboym/DJset)
+- This project aims to leverage the Spotify Web API to extract track information from selected DJ playlists. By utilizing the Spotify API, the project retrieves track URIs from playlists belonging to various DJs, facilitating the analysis of audio features across different sets and comparison of my own set to theirs. github: [here](https://github.com/amboym/DJset)
