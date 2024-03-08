@@ -1,6 +1,7 @@
 # Portfolio
 Hello there, Im Mark! This is a compilation of notebooks created for data analysis and data science projects. 
-#### Fantasy Premier League Analysis and Storage – Python / PostgreSQL / Tableau
+#### Fantasy Premier League Analysis and Storage
+##### Python / PostgreSQL / Tableau
 Developed a comprehensive database capable of storing weekly player statistics sourced 
 from user-selected teams via the Fantasy Premier League API
 - Leveraged Pandas to extract, transform and load player and statistics into a 
