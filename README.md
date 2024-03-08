@@ -1,5 +1,6 @@
 # Portfolio
 Hello there, Im Mark! This is a compilation of notebooks created for data analysis and data science projects.
+
 ### Fantasy Premier League Analysis and Storage
 #### Python / PostgreSQL / Tableau
 Developed a comprehensive database capable of storing weekly player statistics sourced 
@@ -9,6 +10,7 @@ PostgreSQL database, ensuring data integrity and efficiency.
 - Demonstrated proficiency in integrating diverse data sources, enabling insightful 
 analysis and visualization for strategic decision-making in sports analytics and 
 fantasy football management. code found [here](https://github.com/amboym/DraftFPLDB)
+
 ### Analysis of DJ Sets 
 #### Python
 Exploring DJ sets, using seaborn and matplotlib in Python. In this project I sought out to see how my setlist compares to my favourite DJ's
