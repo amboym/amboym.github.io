@@ -22,5 +22,6 @@ Exploring DJ sets, using seaborn and matplotlib in Python. In this project I sou
 __Python__
 
 Analysis and breakdown of stock portfolio and application of Harry Markowitz Modern Portfolio Theory, in Python.
+
 -Utilizing Harry Markowitz's Modern Portfolio Theory through Python, I employed the yfinance API to extract historical stock data for the assets within my portfolio. Subsequently, I generated random weights to construct a set of n = 1000000 feasible portfolios and identified an optimal stock allocation based on the Max Sharpe Ratio.
 - Following this, adjustments were made to certain stocks in the portfolio to enhance diversification. A comparative analysis was then conducted between the original and modified portfolios, yielding valuable observations on their respective characteristics and performance. github:[here](https://github.com/amboym/StockPortfolioAnalysis/blob/main/README.md)
