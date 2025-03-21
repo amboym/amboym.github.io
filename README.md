@@ -1,5 +1,5 @@
 # Portfolio
-Hello there, Im Mark! This is a compilation of notebooks created for data analysis and data science projects.
+Hello there, Im Mark! This is a compilation of notebooks created for data analysis and data science projects
 
 ### Fantasy Premier League Analysis and Storage
 __Python / PostgreSQL / Tableau__
